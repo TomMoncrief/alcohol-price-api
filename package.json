@@ -1,0 +1,13 @@
+{
+  "name": "alcohol-price-api",
+  "version": "1.0.0",
+  "description": "A simple alcohol price comparison API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "cors": "^2.8.5"
+  }
+}
